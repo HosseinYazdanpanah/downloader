@@ -5,6 +5,7 @@
 - [snapshot_2026-04-20_19-04](./snapshot_2026-04-20_19-04)
 - [symbols-snapshot_2026-04-20_19-04](./symbols-snapshot_2026-04-20_19-04)
 - [x64dbg-pluginsdk-cmake](./x64dbg-pluginsdk-cmake)
+- [x64dbg-pluginsdk](./x64dbg-pluginsdk)
 
 ---
 
