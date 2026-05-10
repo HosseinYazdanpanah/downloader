@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [ghidra_12.0.4_PUBLIC_20260303](./ghidra_12.0.4_PUBLIC_20260303)
 
 ---
 
